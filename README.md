@@ -1,3 +1,9 @@
+# The three types of cryptography are:
+
+# 1. Secret key cryptography
+# 2. Public key cryptography
+# 3. Hash function cryptography 
+
 # Linux-Focal-Fossa-Ubuntu-20.04-Apache2-Open-SSL-installation
 
 # open terminal type
